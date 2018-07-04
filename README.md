@@ -31,7 +31,7 @@ Also you can install [MAMP](https://www.mamp.info/en/). That installs a local se
 
 ## How to Play
 
-The goal of this game is to get to the river without the enemies touch you.
+The goal of this game is to get to the river without enemies hitting you.
 
 To move around use the following keys :
  **←** Left
